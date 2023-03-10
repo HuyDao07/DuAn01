@@ -65,6 +65,7 @@ a{
     position: relative;
     background-color: #E6F0FF;
     height: calc(100vh - 90px);
+    justify-content: center;
 }
 .navbar{
     position: sticky;
@@ -99,9 +100,6 @@ a{
     padding: 13px 16px;
     margin-left: 18px;
     border-radius: 8px;
-}
-.hero{
-    margin: 130px 0;
 }
 .hero .sub-title{
     font-weight: 500;
@@ -153,7 +151,7 @@ a{
     color: #7D8589;
 }
 .clients .row-desc{
-    margin-top: 23px;
+    margin-top: -24px;
 }
 
 .clients .images{
